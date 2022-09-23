@@ -1,0 +1,12 @@
+.task {
+  /* border: 1px solid teal; */
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  padding: 0.5rem;
+}
+
+.task > div {
+  /* border: 1px solid red; */
+  width: 30%;
+}
